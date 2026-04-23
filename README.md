@@ -3,12 +3,12 @@
 I am a computer science student at Wilson College in Chambersburg, PA. I am looking forward to finding my place in the software development world. I am currently learning as much as I can to be ready to enter the workforce. 
 
 ## Tools
--Languages: C++, Java, Python
--Currently Learning: Docker, Jira
+-Languages: C++, Java, Python, HTML, CSS, JavaScript
+-Currently Learning: Backend Development, Web Development
 -Tools: VS Code, Git
 
 ## Learning Goals
-I want to learn as much as I can to become a better software engineer and to prepare myself for the future. 
+I am working on some person web development projects and hoping to get a closer look at video game development as well. 
 
 ## Contact Information: 
 **Email**: efulton275@gmail.com
